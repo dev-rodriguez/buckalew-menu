@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# Generated menu outputs
+menu_output*.json
+menu_output*.csv
+menu_widget*.html
+
+# Logs / temporary files
+*.log
+.tmp_*
